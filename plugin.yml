@@ -1,0 +1,8 @@
+name: ZHD
+author: iMPDevMC
+version: 1
+description: lazy af
+main: gq.devmc.zhd.Main13
+commands:
+  zhd:
+    description: stil lazy af
